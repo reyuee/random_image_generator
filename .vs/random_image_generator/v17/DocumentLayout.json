@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kristian.chasjba\\source\\random_image_generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90213293-AD57-4927-B043-0893AFFE0512}|random_image_generator\\random_image_generator.csproj|c:\\users\\kristian.chasjba\\source\\random_image_generator\\random_image_generator\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90213293-AD57-4927-B043-0893AFFE0512}|random_image_generator\\random_image_generator.csproj|solutionrelative:random_image_generator\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kristian.chasjba\\source\\random_image_generator\\random_image_generator\\MainPage.xaml",
+              "RelativeDocumentMoniker": "random_image_generator\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\kristian.chasjba\\source\\random_image_generator\\random_image_generator\\MainPage.xaml",
+              "RelativeToolTip": "random_image_generator\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T11:59:54.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
